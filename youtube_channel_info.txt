@@ -53,7 +53,7 @@ Euronews | English | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronew
 https://www.youtube.com/watch?v=pykpO5kQJ98
 
 Sky News | News | https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=9Auq9mYxFEE
+https://www.youtube.com/live/9Auq9mYxFEE
 
 Al Jazeera  | English | https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png |
 https://www.youtube.com/watch?v=gCNeDWCI0vo
@@ -110,7 +110,7 @@ Chillout Lounge | Music | https://i.imgur.com/rVWYpIT.png |
 https://www.youtube.com/watch?v=9UMxZofMNbA
 
 ABC News Australia | News | https://i.imgur.com/6Vw9jUF.png |
-https://www.youtube.com/watch?v=vOTiJkg1voo
+https://www.youtube.com/live/vOTiJkg1voo
 
 Bloomberg Business News | News | https://i.imgur.com/vR0TpN9.png |
 https://www.youtube.com/watch?v=iyOq8DhaMYw
@@ -128,4 +128,4 @@ NHK World Japan | English | https://yt3.ggpht.com/ytc/APkrFKbNRGC39WBzvaKP6B2_Tl
 https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
 KBS World TV | Korean | https://yt3.ggpht.com/ytc/APkrFKb0EW_6KpUtdFrBPleOH8ENGLA_3RYfrl48drS0XYI=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=OxQQsIvJTTU
+https://www.youtube.com/live/goQ59q_XXws
