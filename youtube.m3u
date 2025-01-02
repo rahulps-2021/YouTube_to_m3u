@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Indian News" tvg-logo="https://yt3.ggpht.com/xvSPpZd-kEa6T3KgnlWv5YYkzLxf9UjWwnjlVBhtJR67qcipOq0sBjrgOd5_46mdoCE3cglT_w=s176-c-k-c0x00ffffff-no-rj" tvg-id="", IndiaTV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735863133/ei/_dZ2Z6f7G5_XsfIP1Iiy6Q4/ip/52.234.38.142/id/Xmm3Kr5P1Uw.46/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUI3VaL8kFVSHqiuvWm-RKTHqOdAhhg7PGmYqDJNlmEFfvlDXNi6yBdSKbjo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANfzOfqC3U33_gt9W4GN6XC1NiksPHKuFa6MFxJbbP-nAiEA9_Mu66yR7i8qaxUZqL2Pl_1lxZHfXQeQDjoFvR2xtPY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Indian News" tvg-logo="https://yt3.ggpht.com/4m7yvjIhOhtCXb905kcNQl6EXt5AzDXvmx6pN5WxbMtd1hylOZDESw6lvV77UjPWtQ--JizW8w=s176-c-k-c0x00ffffff-no-rj" tvg-id="", CNN-News 18
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -94,7 +94,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZRm8qB3Hshf01VJwj9P0N0rZb4B8ne65R4GL4UAQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Chillout Lounge
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735863143/ei/Btd2Z9D3OZ2QsfIPvMTSiQ0/ip/52.234.38.142/id/9UMxZofMNbA.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324843/txs/51324841%2C51324842%2C51324843/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUFMeGhBUtzj9U-efYQcv8l2rh7teb9PBKMC2f-2bYfeKmjehYOUxmpQcn8k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALRIlFPcqWDxivSdHIdCzSArbgxmMmpuKFvMwrC1tzcOAiEA_ZDRbddwSVgCfMkcK4afJILYx4D7Dq9tCN8pCiYg4Vs%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
