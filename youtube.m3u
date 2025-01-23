@@ -112,13 +112,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Camera" tvg-logo="https://yt3.ggpht.com/AtkgY-g5_Y-QeRvDy-FweAi-4utvOlU7iJobhozgx4rSKx7DRP6hys_UrFf9mPbQuLMDaSWU=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Ski Panorama
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737666576/ei/sFuSZ5eNEcTzsfIPiaye2A0/ip/20.172.7.49/id/ZcOWiKt7Nk4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-PO9NZpUcbjbFdkyNFV_xgz5WeWP_oh8mzLWtTV7_XrVBpjLPG-4PiAnJbgJ6Lt2tmnDKI_g8QX/spc/9kzgDX86hdzm0PJpIj3kmYF2G8ZMFa4bs9e7-6Lur-70eBvv-XzfvY-iyGyLLJU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgCu9lA8vQsKtgAGJAf-LpsmKEUVgTjBLFYbiqei4w4PUCIAIkGmPdpaI2GnwPs0Rqnl-WJ3-3qJzKF7syLjLSXPM4/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://yt3.ggpht.com/zJtLviP77uKqO_KWlr2b4WHF8CpQ_XG0pF5uofDPAadUPJcQkoy55un_7qlCyikVJePjmFfL1kE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Hits Radio 1
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://yt3.ggpht.com/t1SlCRSFyC1H-D-WyGBVEajjxw1UZqlEuJNFdHh--S9s_kEreNkUpF4PoRfiT34laxz_G5uGZw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Ibiza Summer Mix
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737666577/ei/sVuSZ4GGAsHzsfIPrr204A0/ip/20.172.7.49/id/Fbe2Xbuv_pk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51356812/txs/51356811%2C51356812/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AY2Et-NBMvz_i9BVhDY371tAJNhNUyRaa3TerJWQ1YB_lGsKmKrWffSnamn4OZ8WH9gxYRYscEjwJ-Mn/spc/9kzgDcY511InhfNFdqLTtm3GE3BolpllfQ9n43hiNte43xW3TPlvi0OIU5NxTSw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461%2C51387368/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMfaFMfZxdpMqU6rLVx-eD65Um3PlWrgknyl1xGgiFTlAiBT4rzTPnrXf5B1ot8aqUAzIwmSnvi7678KjU4jmYA9fw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTrGXsR6FEOmDHp_SAd2Fn_v-ekSVrj8KrOSkdcBA=s176-c-k-c0x00ffffff-no-rj" tvg-id="", ABC News Australia
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -133,7 +133,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Japanese" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaJ63J-zDwZR4rW7VH9dS1jGzfJLyre8j4FywXEkQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", JapaNews24
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737666583/ei/t1uSZ6SbINaTsfIPw4WA-QM/ip/20.172.7.49/id/coYw-eVU0Ks.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51357424/txs/51357422%2C51357423%2C51357424/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-PIqrf6TlnNBJ3UK57vdDr447LqiBKmZKvhV28sxqIOL0abDKOK8OxX_QO90D2CkHlE8QUR86bA/spc/9kzgDS5ugbvI-_0MRb8puZmYvTOBaK9qAuCabqIj7GP3XoygP2KkkrQn3IHTpRY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIge3AMKWycq20z_p8UHOqKP3Uk6LZAddPfRHKVdRQT15ECIA4kRLqlthhoSSqgGsq0MKhxNe_rtp4agvQ-DqFEo0kM/file/index.m3u8
 
 #EXTINF:-1 group-title="Japanese" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaJ63J-zDwZR4rW7VH9dS1jGzfJLyre8j4FywXEkQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Shibuya crossing
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
