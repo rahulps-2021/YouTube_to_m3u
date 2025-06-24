@@ -52,13 +52,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/t3slq37NYJRuP2UoEZDoPKyMClKyQULG8-j2DEfzL1XXcBvFpR6z6HD7rtc0wDn8Mqt0OtpU=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Euronews
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1750820985/ei/GRRbaLDwMo-IkucPpf71oA4/ip/13.68.82.133/id/pykpO5kQJ98.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AY1jyLPI1CdlLEBWh7JEPq_6xjOIYQsNXUDlODVHWmKmzulcJ3NB6XKCAGGzuQikYPhY50PI5YPLCoLi/spc/l3OVKcYCNaf-z4f7ZZdaglOUI_JKWfUndJbRwJxwR7xR6xAJ20WznOcZtnufkqqsfY4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466643%2C51466698/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPqHqH7eVz-XPfo5U5rpQwT8k3rtR11xnUgQI_LmB240AiEAmPJGAfzTR45p1eVJ2BW_wF6x2vBik59Dqatjol31TVo%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1750820987/ei/GxRbaKzWM6GBkucPw9vTkQw/ip/13.68.82.133/id/gCNeDWCI0vo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNnXbXXvvBT7BafmCFOVT6bFVR_84ue3xeD91_9qicvzAEtgB7x3J42gwJNIHRJhYyeRoXAzQhS/spc/l3OVKfLQwoiEWJRZw-rGiitkGa16NHL4LlqB45UxZTZiLbXp3_DiUAuNrixZ2BM3GWo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466643%2C51466698/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKWpQsiT75Ex0xWmVq6hBfkVmpXa1nWDKYgP5t29RXVtAiB2p0AyK9neE9U6KbyrhT7Mjv40pkei8TsEqLYJbxOHvg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZT26B5Sfn__WkVDEm6BuwXgNhREhWqYibI6t9ha=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Best Shuffle Dance Music 2021
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
