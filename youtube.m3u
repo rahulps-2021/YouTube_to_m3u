@@ -118,7 +118,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://yt3.ggpht.com/t1SlCRSFyC1H-D-WyGBVEajjxw1UZqlEuJNFdHh--S9s_kEreNkUpF4PoRfiT34laxz_G5uGZw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Ibiza Summer Mix
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754709013/ei/tWeWaJj2IJvd2_gPk7vb2QI/ip/64.236.131.212/id/Fbe2Xbuv_pk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51477231/txs/51477230%2C51477231%2C51477232/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AY1jyLOBIukfHdeoBPmS-Wr9rB6B6AJ2qJpfH0O19MaWPUt8F3R7SARr13XTlqueJCfc_WNrdfMHi-xb/spc/l3OVKbsHr0ZlAQ0gZhGQ7U7WnAS0YSu4YbCWfxSYpTFx4X9C1a3HuVT3e-2rJjQOU10/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOhIQXXz7AwJmwa5lD2kwa6PPWLcha93LmDXz1PWWvfSAiEA6HcTIl1zxjKR-cX6MGTPKZOJBquQZgVu86V3vRSVFLE%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTrGXsR6FEOmDHp_SAd2Fn_v-ekSVrj8KrOSkdcBA=s176-c-k-c0x00ffffff-no-rj" tvg-id="", ABC News Australia
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
