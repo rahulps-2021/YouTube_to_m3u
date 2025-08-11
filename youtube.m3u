@@ -139,7 +139,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbNRGC39WBzvaKP6B2_TlwF7OEb1nF63ArViBu0RA=s176-c-k-c0x00ffffff-no-rj" tvg-id="", NHK World Japan
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754946759/ei/ZwiaaPKdHc66kucPiYi8yAQ/ip/40.76.181.214/id/f0lYkdA-Gtw.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51477232/txs/51477230%2C51477231%2C51477232/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOVD8UilcQAzsh6h3T7aFItfsEWds7xRi1jNRq8goEl2FL-jsbj-2PffzcuVroXB1xjlUcZM7tz/spc/l3OVKSnqD-63BvfARjx3ZZA_y4UyXY5OTIq2MmWtWDDMu9lj1xEeHlwdsjFjoVZ2Ya4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTUfCHZAr2YKmLrg_kuBwlTUZZvdM3QMphFAIXEuZ4xoCIQCWlQOEOzKnJOYfdshwPv-gIjVLaqIQrrbDGtN_hPl_HQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Korean" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKb0EW_6KpUtdFrBPleOH8ENGLA_3RYfrl48drS0XYI=s176-c-k-c0x00ffffff-no-rj" tvg-id="", KBS World TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
