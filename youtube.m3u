@@ -130,7 +130,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Camera" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZ4WJzkJSuiGf0ednC6drmYPf73BOY0msG3UUjx=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Times Square: 1560 Broadway View Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755141009/ei/Mf-caKinH5ODkucPmKrluQ0/ip/48.214.55.34/id/4qyZLflp-sI.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMnqDrYe72HrlwINtgA7NBU-sr_IrW69aMfx9kLohAp5o-IArpaERdwO3LGe5s4OXOWmIx-xh7o/spc/l3OVKZi6qRDQWULAKOt0c1j3XfjyExcvUgDwFmor0MvnDxCfvZS3HCvc5UgazAkk6Ho/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ5oAZFgiIio7LO76EHmUVil4Vv8C5OR4r2RuxXasbUpAiEApGzYX01fcS0hacpDYAwl_AE9ZzE6nBbGKpM2CuDO_Ws%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Japanese" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaJ63J-zDwZR4rW7VH9dS1jGzfJLyre8j4FywXEkQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", JapaNews24
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
