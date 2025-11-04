@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj" tvg-id="", Reporter
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762290670/ei/jhcKacnyHLORsfIP7sPkoAU/ip/172.182.212.7/id/nObUcHKZEGY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5QLT09ImJ3QbyEV-ecUWtEHhphvFXwR-_g61stF5VwmZUxUD4lH7WXqVnJZc9XCtpUPGIjKUlbo/spc/6b0G_DuSe9H5eWi507B87pRFCRbcwntQWXR-FvZ4CeuEtJV67tcmlpuKhNF2pG6mzhI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSY-r8cg6pasGhWUqsI6XcPFnpykNMEB3NjR3GWcUZ0MCIENd7mUS8SGREZsUTFXspCL9U2zbqv7APEygmuaCTnqb/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janam_TV_logo.png/220px-Janam_TV_logo.png" tvg-id="", Janam TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -112,7 +112,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Camera" tvg-logo="https://yt3.ggpht.com/AtkgY-g5_Y-QeRvDy-FweAi-4utvOlU7iJobhozgx4rSKx7DRP6hys_UrFf9mPbQuLMDaSWU=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Ski Panorama
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762290716/ei/vBcKaaWQAqzHsfIP25G18Qc/ip/172.182.212.7/id/6V39eDpTyas.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Tko9mVLmvOGQzWB7CXyJ9c9agHOGnaJu1hP4Ij_8mOCR3mwlnjQsPHa7Ehl6ZMkQKmcb0nQB0m/spc/6b0G_BtoYxzNbbCTtQVkX5-iJ8L6CY3lste6N1NzAr4v-mZ0IWZIGuujNve225i_pjU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIoLLIY66R1qhMFrCr_PeqXe-qr6m9L4ux7kthpwDf6oCIEWXZ3lBm2fmCnwDSS4My2abMzbp5cv-xr6QQoozorLw/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://yt3.ggpht.com/zJtLviP77uKqO_KWlr2b4WHF8CpQ_XG0pF5uofDPAadUPJcQkoy55un_7qlCyikVJePjmFfL1kE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Hits Radio 1
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
