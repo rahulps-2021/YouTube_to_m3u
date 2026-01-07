@@ -112,7 +112,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Camera" tvg-logo="https://yt3.ggpht.com/AtkgY-g5_Y-QeRvDy-FweAi-4utvOlU7iJobhozgx4rSKx7DRP6hys_UrFf9mPbQuLMDaSWU=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Ski Panorama
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767841904/ei/EMxeafjeJI6Hlu8PjoGouAE/ip/64.236.134.213/id/HVt5n0CDRF8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3A3Y0KNRGxkfwGOmi-OdhsSWWj6wM_mZ5CBRllKLEgtumIckhIoD7dUc7vNWjlr_2hlsYtRfFRF/spc/wH4QqwGP1ZkJJqreVmetfPQtJqbD-u9cd4tmymLU2ZEvHZQrjuXVydNRTyccXzuPluA/vprv/1/go/1/ns/OAuH6ewQUbBgsG7cho8QFqIR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/hNW91JhLU8nEqVzD6go/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMfGWh-tiqw_SBZs0wemJ-sYxWrTF4tkYAE4wJHSn67hAiEAgF5zKgZY8z8zcO86L276nAEx66C9RR33ErBNm0CkBRo%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://yt3.ggpht.com/zJtLviP77uKqO_KWlr2b4WHF8CpQ_XG0pF5uofDPAadUPJcQkoy55un_7qlCyikVJePjmFfL1kE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Hits Radio 1
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
