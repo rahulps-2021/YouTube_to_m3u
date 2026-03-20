@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png" tvg-id="", Media One News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1774063186/ei/8rm9aeLpGp_qir4P4beggAs/ip/52.176.125.115/id/-8d8-c0yvyU.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773318/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-yTFXx5_su5HukYk1FRL0KdH38GefY9NiwnqT08frcYtyzYjjc8x8lTOX127wOJPVfFLDXVTicP/spc/6dlaFDwF1qUlfFUuu0Y4dhlXNXITR-DveBvUNdTw2INtAtbG9YnhGA9tt1-Oanqf6U508g/vprv/1/go/1/ns/drnffI0jZooMM2sA0WGEMO8T/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51514994%2C51565115%2C51565681%2C51791334/dover/11/n/iZPL5okbvDwY0GeR/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAJ2buu2_2rhNt4nQpVrNfvWhuRyFSKrON3uQanxC0MO6AiEAsMgFP40ynueH5kDmpd-t_i6WhL8RVakKpW5t8Q9te7I%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", Kerala Vision News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
