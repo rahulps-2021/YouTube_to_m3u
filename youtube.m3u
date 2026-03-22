@@ -121,7 +121,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTrGXsR6FEOmDHp_SAd2Fn_v-ekSVrj8KrOSkdcBA=s176-c-k-c0x00ffffff-no-rj" tvg-id="", ABC News Australia
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1774225330/ei/UjPAaf7zMvmW2_gP1sGmiA4/ip/132.196.32.55/id/vOTiJkg1voo.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773317/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-xnQvukqTfi2jxgFj5ZjuT1UCi1X-jvHzGdooHVGz3ysv3NEzQxTFd8O6_wfk8buuBwLh7ZyTv6/spc/6dlaFIVfmX9vk9O6D2QHRgyOXe0K_zoVvPyJRQjp7zEStlNw4A4npMQvNEiUQT-Jy8tr5w/vprv/1/go/1/ns/HSFshE7E_ivh2Gmr_9bHrWsT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51791334/dover/11/n/TvCuyqQnEthGv2V0/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAOPylHrCT7WhaY8iIS90nmHCywOZbkoyJXQAOTYxt7hPAiArzF1bOJ2zdaKD5jc4IgbZILci6sJbhUA_PD3l5xYRFA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/-kcohSPXknvrybix3K6ayjkT3_vn0Hily7cED3KwrlYzXYNzTXrgmg4ea04Yurmzkgk04A6j3Rg=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Bloomberg Business News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
