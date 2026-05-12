@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" tvg-id="", News 18 Kerala
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1778626844/ei/vFwDasi0HJrFkucP7N7K4Qs/ip/68.154.116.113/id/VA_LvMOZh0U.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AbKmrwpR-C3MC3kdVw4Lxd_D5trwzhQYJJl9ymAeOUsy8028aw5-pOK-q1oN8wQU0EGZlrHZeVDq-lsU/spc/96XrvxatOSvLoWi0OqkWy0mW4JDNAG-qze9eFDMEIcAFxW5pDhVTOkPUo4gz6D3--UlIqw/vprv/1/go/1/ns/x15PcsEOC-0PzdmYWdQmMdkV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/dNphMZ7LE87YFhTrGg/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAPV0H1DMlGy_1oz5yesARxnL7iKBMOB7XuUz4uQJRhlHAiEA9KtNuntIdjN-THyEBbeb0JwjIOQlL8XhMzEQ4JL-rZU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.ggpht.com/EwVFsF0sTXE41y6Bua9GGmQ0YNZKaobLc5XfzrG6-IduicpzY5AP9LpJnh5MRCGNo7kkK9pnHDU=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Malayalam Songs 24x7
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
